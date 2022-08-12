@@ -21,7 +21,7 @@
   <td width="87" style="width:65pt">Ref</td>
  </tr>
  <tr height="21" style="height:16.0pt">
-  <td rowspan="13" height="21" class="xl67" style="height:16.0pt;width:65pt">Siamese</td>
+  <td rowspan="13" height="21" style="height:16.0pt;width:65pt">Siamese</td>
   <td align="right">2013</td>
   <td>DSSM</td>
   <td>CIKM</td>
