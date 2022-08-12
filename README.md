@@ -27,12 +27,6 @@
   <td>CIKM</td>
   <td class="xl66"><a href="https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/" target="_parent">link</a></td>
  </tr>
- <tr height="21" style="height:16.0pt">
-  <td height="21" align="right" style="height:16.0pt">2015</td>
-  <td>SiamCNN</td>
-  <td>ASRU</td>
-  <td class="xl66"><a href="https://arxiv.org/abs/1508.01585" target="_parent">link</a></td>
- </tr>
  <!--[if supportMisalignedColumns]-->
  <tr height="0" style="display:none">
   <td width="87" style="width:65pt"></td>
