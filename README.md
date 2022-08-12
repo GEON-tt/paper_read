@@ -12,5 +12,5 @@
 
 <p style="text-align: center;">
     <img src="https://tva1.sinaimg.cn/large/008eGmZEly1gn8atgmxrvj30u00ybtgz.jpg" width="50%" align="center">
-< /p>
+</p>
     
